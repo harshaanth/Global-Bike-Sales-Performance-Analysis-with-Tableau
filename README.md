@@ -17,7 +17,7 @@ This project aims to analyze sales performance trends using the **GBI_Large_Data
 - **Data Set:** `GBI_Large_DataSet_Dollar.xlsx` (Main data used for analysis)
 - **Tableau Workbook:** `Bike_Sales_Analysis.twbx` (Includes all visualizations and calculated fields)
 - **ReadMe File:** `README.md` (This documentation file)
-- **Screenshots of Visualizations:** (Provide images/screenshots of key visualizations created in Tableau)
+- **PowerPoint Presentation:** `Bike_Sales_Analysis.pptx` (Contains all visualizations exported from Tableau)
 
 ## **Steps Breakdown:**  
 
@@ -117,4 +117,4 @@ This Tableau project provides a comprehensive analysis of bike sales performance
 - **Data Set:** `GBI_Large_DataSet_Dollar.xlsx`
 - **Tableau Workbook:** `Bike_Sales_Analysis.twbx`
 - **ReadMe File:** `README.md`
-- **Screenshots Folder:** Contains images of all visualizations created during the analysis
+- **PowerPoint Presentation:** `Bike_Sales_Analysis.pptx` (Contains all visualizations exported from Tableau)
