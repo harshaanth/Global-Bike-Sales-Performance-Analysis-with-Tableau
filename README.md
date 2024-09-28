@@ -117,4 +117,4 @@ This Tableau project provides a comprehensive analysis of bike sales performance
 - **Data Set:** `GBI_Large_DataSet_Dollar.xlsx`
 - **Tableau Workbook:** `Bike_Sales_Analysis.twbx`
 - **ReadMe File:** `README.md`
-- **PowerPoint Presentation:** `Bike_Sales_Analysis.pptx` (Contains all visualizations exported from Tableau)
+- **PowerPoint Presentation:** `Bike_Sales_Analysis.pptx`
